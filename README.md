@@ -7,7 +7,7 @@ Source: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 ![image](https://github.com/user-attachments/assets/32d410d2-4bde-4b04-b6f7-346fa180f74c)
 --
 --
-![image](https://github.com/user-attachments/assets/93eaddf4-ed11-42ae-8e29-ebdb9c798d66)
+
 ![image](https://github.com/user-attachments/assets/e6e5e4f5-eeea-4111-a71b-1787f4f1e74d)
 ![image](https://github.com/user-attachments/assets/136ec768-6ad5-4528-bcec-2e2da0c6cbe5)
 ![image](https://github.com/user-attachments/assets/07c6c310-6480-4d4b-a42d-bba87862de1c)
