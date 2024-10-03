@@ -1,7 +1,5 @@
 # Data-Mining 🐫
 # Data Mining: Predicting Causes of Stroke (Big Data Analysis)
-<img src="https://github.com/user-attachments/assets/531820bb-3b82-4620-95e0-58ae8dacb8e7" alt="image" width="300">
---
 --
 Dataset: Stroke Prediction Dataset
 Source: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
